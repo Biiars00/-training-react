@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    background-color: #21222A;
+    align-items: center;
+    height: 91px;
+}
+
+.logo-navbar {
+    Width: 28.93px;
+    Height: 28.93px;
+    margin-left: 26px;
+}
+
+.navbar-text-logo {
+    color: #61DAFB;
+    font-size: 22.25px;
+    font-weight: 700;
+    margin-left: 20px;
+}
+
+.navbar-text {
+    color: #DEEBF8;
+    font-weight: bold;
+    margin-left: 72rem;
+}

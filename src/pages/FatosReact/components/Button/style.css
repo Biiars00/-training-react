@@ -1,0 +1,17 @@
+.navbar-button-link {
+    padding-left: 74px;
+    margin-top: 0px;
+}
+
+.navbar-button {
+    padding: 10px;
+    background-color: #61DAFB;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.navbar-link {
+    color: #282D35;
+    text-decoration: none;
+}
