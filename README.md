@@ -2,14 +2,26 @@
 
 São 4 projetos reunidos em um, utilizando roteamento de páginas, componetização e estilização.
 
-![NodeJS](./src//assets/home.png)
+![Home](./src//assets/home.png)
 
 Ao acessar a página principal, **Home**, pode-se escolher qual projeto deseja visualizar: 
 
 + Blog
+
+![Blog](./src//assets/blog.png)
+
 + Profile
+
+![Profile](./src//assets/profile.png)
+
 + Fatos React
+
+![Fatos](./src//assets/fatos.png)
+
 + Button
+
+[Em desenvolvimento]
+![](./src//assets)
 
 Neste último, pratica-se propriedades, eventos e lógica.
 
