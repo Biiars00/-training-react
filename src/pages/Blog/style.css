@@ -1,0 +1,30 @@
+:root {
+    --background-color-header: #F55A5A;
+}
+
+.header {
+    height: 55px;
+    display: flex;
+    background-color: var(--background-color-header)
+}
+
+.icon-header {
+    Width: 24px;
+    Height: 24px;
+    margin-top: 16px;
+    margin-left: 80px;
+}
+
+.header-title {
+    font-size: 18.46px;
+    font-weight: 500;
+    color: #FFFFFF;
+    margin-top: 16px;
+    margin-left: 10px;
+}
+
+.blog-button-home {
+    margin-top: 40px;
+    margin-left: 4px;
+    margin-bottom: 40px;
+}

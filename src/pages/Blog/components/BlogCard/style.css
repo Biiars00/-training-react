@@ -1,0 +1,67 @@
+.container {
+    Width: 470px;
+    Height: 168px;
+    margin-left: 80px;
+    border-radius: 5px;
+    display: flex;
+    margin-top: 40px;
+    background-color: #ffdcff;
+}
+
+.foto-viagem {
+    Width: 125px;
+    Height: 168px;
+    border-radius: 5px;
+}
+
+.container-local {
+    display: flex;
+}
+
+.container-local-icon {
+    Width: 7px;
+    Height: 9.55px;
+    margin-top: 12px;
+    margin-left: 10px;
+}
+
+.container-local-local {
+    font-size: 10.24px;
+    color: #2B283A;
+    margin-top: 12px;
+    margin-left: 10px;
+}
+
+.container-local-maps {
+    color: #918E9B;
+    font-size: 10.24px;
+    font-weight: 400;
+    margin-top: 12px;
+    margin-left: 10px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.container-text {
+    margin-left: 10px;
+}
+
+.container-text-title {
+    font-size: 25px;
+    font-weight: 700;
+    color: #2B283A;
+    text-align: left;
+}
+
+.container-text-date {
+    font-size: 10.24px;
+    font-weight: 700;
+    color: #2B283A;
+    margin-top: 1rem;
+}
+
+.container-text-text {
+    font-size: 10.24px;
+    font-weight: 400;
+    margin-top: 1rem;
+}
