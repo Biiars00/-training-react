@@ -1,0 +1,49 @@
+.button-contato {
+    display: flex;
+    margin-left: 11px;
+}
+
+.button-email {
+    border-radius: 6px;
+    width: 115px;
+    height: 34px;
+    border: 1px;
+    padding: 9px 13px 9px 11px;
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+    text-align: center;
+}
+
+.button-email .email {
+    margin-left: 8px;
+    text-align: center;
+    color: #374151;
+    font-size: 14px;
+}
+
+.button-linkedin {
+    border-radius: 6px;
+    width: 115px;
+    height: 34px;
+    border: 1px;
+    padding: 9px 13px 9px 11px;
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+    text-align: center;
+    background-color: #5093E2;
+}
+
+.button-linkedin .linkedin {
+    margin-left: 8px;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+
+.icon {
+    Width: 16px;
+    Height: 16px;
+    margin-left: 10px;
+}
